@@ -14,8 +14,5 @@
 
 ---
 <img align="left" alt="Ego's GITHUB Stats" src="https://github-readme-stats.vercel.app/api?username=egoinfinite&show_icons=true&hide_border=true&theme=radical" />
----
 
-<br>
-<br>
-Programmed with Love by Edgerton "Edge" Davis ❤️
+#### Programmed with Love by Edgerton "Edge" Davis ❤️
