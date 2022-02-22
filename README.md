@@ -5,7 +5,7 @@ Hello Hello, my name is Edgerton Davis, but please call me Edge.
 - I am currently working on multiple projects, including Tabletop Roleplaying Game Systems w/Friends! 🎲👾👽🔫
 - In order to do that, I have to learn EVERYTHING! 🤣
 - I am always seeking out new friends, allies, and associates; I'm a quick to reply too. 😉
-- Fun Fact: I'm Loud & Outgoing by nature! :hearts:
+- Fun Fact: I'm Loud & Outgoing by nature! 🔊🎊
 
 ### 2022 Goals (For now...)
 - [ ] **Obtain** my **Associate's Degree** in Web Development...
